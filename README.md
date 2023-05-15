@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# 💫 About Me:
+# 💫 Hi there 👋
 🔭 I’m currently working on e-commerce app<br>🌱 I’m currently learning TypeScript and TanStack Query<br>🚴 I love cycling trips, especially long ones<br>💬 Ask me about anything :)
 
 
